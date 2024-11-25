@@ -12,3 +12,7 @@ A problem solver at heart who loves engineering solutions to complex business pr
 ## Software Engineer @ [DAZN](https://www.dazn.com/en-NL/welcome) (March, 2022 - June, 2023)
 - Collaborated with a cross-functional team of 8 engineers to support marketing teams across 28 regions, developing, maintaining, and delivering landing pages optimized for web, mobile, and TV applications, increasing regional campaign efficiency by 35%
 - Developed a headless CMS solution for DAZN using Node.js, TypeScript, AWS, and Terraform, empowering teams to independently manage 300+ landing pages by integrating with centralized APIs for pricing, language, and content, reducing dependency on developers and streamlining content management across the organization.
+
+## Full Stack Engineer @ [Fashion Cloud](https://www.fashion.cloud/) (July, 2021 - Feb - 2022)
+- Worked as part of the content platform team to manage the full stack web app and third party APIs for content sharing between 5000 brands and 20,000+ retailers
+- Collaborated with 8 engineers and product owner to refine and develop new product features using the [Shape up](https://basecamp.com/shapeup) methodology with the MEAN technology stack and AWS with GitHub CI/CD

@@ -16,3 +16,6 @@ A problem solver at heart who loves engineering solutions to complex business pr
 ## Full Stack Engineer @ [Fashion Cloud](https://www.fashion.cloud/) (July, 2021 - Feb - 2022)
 - Worked as part of the content platform team to manage the full stack web app and third party APIs for content sharing between 5000 brands and 20,000+ retailers
 - Collaborated with 8 engineers and product owner to refine and develop new product features using the [Shape up](https://basecamp.com/shapeup) methodology with the MEAN technology stack and AWS with GitHub CI/CD
+
+## Software Engineer @ [AlphaBOLD](https://www.alphabold.com/) (September, 2018 - June, 2021)
+Developed an ML and IoT based predictive maintenance solution for industrial machinery to monitor the health of the machines, provide real time insights and predict machine failures using time series analysis with Azure ML, Python and NodeJS

@@ -18,4 +18,6 @@ A problem solver at heart who loves engineering solutions to complex business pr
 - Collaborated with 8 engineers and product owner to refine and develop new product features using the [Shape up](https://basecamp.com/shapeup) methodology with the MEAN technology stack and AWS with GitHub CI/CD
 
 ## Software Engineer @ [AlphaBOLD](https://www.alphabold.com/) (September, 2018 - June, 2021)
-Developed an ML and IoT based predictive maintenance solution for industrial machinery to monitor the health of the machines, provide real time insights and predict machine failures using time series analysis with Azure ML, Python and NodeJS
+- Designed and implemented a predictive maintenance solution for industrial machinery, leveraging Machine Learning and IoT technologies to monitor machine health, deliver real-time insights, and predict failures using time series analysis. Built the system with Azure ML, Python, and Node.js, enabling proactive decision-making and reducing downtime
+- Directed a team of three engineers to design and develop a SaaS application for an IoT product, delivering features such as IoT device onboarding, user management, analytics, and over-the-air updates for device firmware, while managing a network of 100 devices and processing over 100,000 messages daily
+- Upgraded a data archiving utility to fetch and archive data from Dynamics 365 CRM to SharePoint to the latest JavaScript syntax and redesigned it for efficiency integrating application monitoring and alerting to reduce customer complaints by 90%

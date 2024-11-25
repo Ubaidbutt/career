@@ -21,3 +21,13 @@ A problem solver at heart who loves engineering solutions to complex business pr
 - Designed and implemented a predictive maintenance solution for industrial machinery, leveraging Machine Learning and IoT technologies to monitor machine health, deliver real-time insights, and predict failures using time series analysis. Built the system with Azure ML, Python, and Node.js, enabling proactive decision-making and reducing downtime
 - Directed a team of three engineers to design and develop a SaaS application for an IoT product, delivering features such as IoT device onboarding, user management, analytics, and over-the-air updates for device firmware, while managing a network of 100 devices and processing over 100,000 messages daily
 - Upgraded a data archiving utility to fetch and archive data from Dynamics 365 CRM to SharePoint to the latest JavaScript syntax and redesigned it for efficiency integrating application monitoring and alerting to reduce customer complaints by 90%
+
+# Tools and Technologies
+- **Languages**: JavaScript, TypeScript, NodeJS runtime, Python 
+- **Frameworks**: Express, NestJS, Fastify, Django
+- **Databases**: MongoDB, PostgreSQL, Redis
+- **Cloud**: AWS serverless (SQS, SNS, Lambda, API gateway, DynamoDB)
+- **Infrastructure and pipelines**: GitHub actions, Azure pipelines, serverless framework, AWS CDK, Terraform
+
+I haven't had the chance to work with the following technologies in my professional career but I would love to build something with them: 
+- Golang, Rust, and GCP

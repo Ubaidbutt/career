@@ -29,5 +29,4 @@ A problem solver at heart who loves engineering solutions to complex business pr
 - **Cloud**: AWS serverless (SQS, SNS, Lambda, API gateway, DynamoDB)
 - **Infrastructure and pipelines**: GitHub actions, Azure pipelines, serverless framework, AWS CDK, Terraform
 
-I haven't had the chance to work with the following technologies in my professional career but I would love to build something with them: 
-- Golang, Rust, and GCP
+I haven't had the chance to work with Golang and Rust professionally but I would love to explore these technologies.

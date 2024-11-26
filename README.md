@@ -22,6 +22,12 @@ A problem solver at heart who loves engineering solutions to complex business pr
 - Directed a team of three engineers to design and develop a SaaS application for an IoT product, delivering features such as IoT device onboarding, user management, analytics, and over-the-air updates for device firmware, while managing a network of 100 devices and processing over 100,000 messages daily
 - Upgraded a data archiving utility to fetch and archive data from Dynamics 365 CRM to SharePoint to the latest JavaScript syntax and redesigned it for efficiency integrating application monitoring and alerting to reduce customer complaints by 90%
 
+# Education
+## Bachelor's of Information Technology @ [QAU](https://qau.edu.pk/) (August, 2014 - September, 2018)
+- **CGPA**: 3.6/4.0
+- Ranked 1st in an Inter university programming hackathon with 28+ universities and 100+ participants 
+- Pioneered the IT society for my department to help student welfare and improve collaboration between students and the administration 
+
 # Tools and Technologies
 - **Languages**: JavaScript, TypeScript, NodeJS runtime, Python 
 - **Frameworks**: Express, NestJS, Fastify, Django

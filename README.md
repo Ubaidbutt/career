@@ -1,7 +1,7 @@
 Ubaid Butt, +31685117197, ubaidrbutt@outlook.com, https://www.linkedin.com/in/ubaidbutt/
 
 # Introduction
-A problem solver at heart who loves engineering solutions to complex business problems. I have been working for more than 6 years in diverse companies, from startups to scale-ups, building solutions ranging from ML and IoT to content management systems and cloud migrations. Most of my experience has been with the JavaScript technology stack, focusing on backend tools like Node.js, TypeScript, PostgreSQL, MongoDB, and AWS. However, I also have some familiarity with and a willingness to work with other technologies, particularly Golang, Python, and GCP.
+Curiosity and challenge are what drive me as a software engineer. I enjoy engineering solutions to complex problems and developing applications that are used by real customers. The engineering complexities motivate me to learn more and improve. Over the past six years, I have worked in startups, scale-ups, and corporates, tackling a diverse range of solutions from ML and IoT to content management systems and cloud migrations. I am a problem solver at heart who enjoys working with technology to address engineering challenges. My tech stack has primarily included JavaScript/TypeScript, Node.js, AWS, Python, and Azure, but I am always open to exploring new tools and technologies as needed.
 
 # Experience
 ## DevOps Engineer @ [Nationale Nederlanden](https://www.nn.nl/) (July, 2023 - Present)

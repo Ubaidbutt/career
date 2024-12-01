@@ -1,4 +1,3 @@
-## Introduction
 During my career, I have had the opportunity to work on several interesting projects. This document highlights the context, challenges, and key learnings from those experiences.
 
 ## Predictive Maintenance for industrial machinery @AlphaBOLD

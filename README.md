@@ -36,3 +36,7 @@ Curiosity and challenge are what drive me as a software engineer. I enjoy engine
 - **Infrastructure and pipelines**: GitHub actions, Azure pipelines, serverless framework, AWS CDK, Terraform
 
 I haven't had the chance to work with Golang and Rust professionally but I would love to explore these technologies.
+
+# Want to know more?
+- Why I left my jobs [here](https://ubaidrbutt.com/job-changes-in-career/)
+- Impactful projects in my career [here](docs/projects.md)

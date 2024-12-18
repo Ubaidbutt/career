@@ -40,4 +40,3 @@ I haven't had the chance to work with Golang and Rust professionally but I would
 # Want to know more?
 If you like to read and want to know more about me, the following might help:
 - Why I left my jobs [here](https://ubaidrbutt.com/job-changes-in-career/)
-- Impactful projects in my career [here](docs/projects.md)

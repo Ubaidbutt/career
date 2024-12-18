@@ -1,4 +1,4 @@
-Ubaid Butt, +31685117197, ubaidrbutt@outlook.com, [https://www.linkedin.com/in/ubaidbutt/](https://www.linkedin.com/in/ubaidbutt/)
+Ubaid Butt, +31685117197, [Email](ubaidrbutt@outlook.com), [LinkedIn](https://www.linkedin.com/in/ubaidbutt/)
 
 # Introduction
 Curiosity and challenge are what drive me as a software engineer. I enjoy engineering solutions to complex problems and developing applications that are used by real customers. The engineering complexities motivate me to learn more and improve. Over the past six years, I have worked in startups, scale-ups, and corporates, tackling a diverse range of solutions from ML and IoT to content management systems and cloud migrations. I am a problem solver at heart who enjoys working with technology to address engineering challenges. My tech stack has primarily included JavaScript/TypeScript, Node.js, AWS, Python, and Azure, but I am always open to exploring new tools and technologies as needed.
